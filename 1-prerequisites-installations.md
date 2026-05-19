@@ -89,7 +89,7 @@ sudo install -m 0755 /tmp/eksctl /usr/local/bin && rm /tmp/eksctl
 
 ---
 
-## aws cli
+## 3. aws cli
 
 ### AWS CLI – A command line tool for working with AWS services, including Amazon EKS. For more information, see Installing, updating, and uninstalling the AWS CLI in the AWS Command Line Interface User Guide. After installing the AWS CLI, we recommend that you also configure it.
 
@@ -107,7 +107,7 @@ After this, make sure to configure it by running the `aws configure` command and
 
 ---
 
-## helm
+## 4. helm
 
 ### helm - A package manager for Kubernetes that simplifies the deployment and management of applications. It functions similarly to package managers like apt for Ubuntu or Homebrew for macOS, but for the Kubernetes ecosystem.
 
