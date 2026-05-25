@@ -22,7 +22,7 @@ To provision and operate the infrastructure seamlessly, our deployment workstati
   3. aws-cli – The Amazon Web Services command-line interface.
   4. helm – The package manager for Kubernetes.
 </br>
-💡 Step-by-step documentation for installing and configuring these tools locally can be found right here in the [Prerequisites Guide](1-prerequisites-installations.md) 
+💡 Step-by-step documentation for installing and configuring these tools locally can be found right here in the Prerequisites Guide [1-prerequisites-installations.md](1-prerequisites-installations.md) 
 
 ### **Verification Check**
 We confirm our local binary installations execute cleanly without missing dependencies by running:  
