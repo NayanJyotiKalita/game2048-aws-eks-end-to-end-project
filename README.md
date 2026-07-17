@@ -1,5 +1,8 @@
 # End-to-End Guide to Deploying Microservices via the AWS CLI: Going Serverless with EKS Fargate 
 
+For Step by Step Implementation, follow this: </br>
+https://medium.com/@nayanjyotikalita_90283/an-end-to-end-guide-to-deploying-microservices-via-the-aws-cli-going-serverless-with-eks-fargate-51ead183df21
+
 Managing production-grade Kubernetes clusters often forces engineering teams into a cycle of maintaining infrastructure, configuring auto-scaling groups, and provisioning underlying EC2 node capacities. 
 This project demonstrates how combining Amazon Elastic Kubernetes Service (EKS) with AWS Fargate shifts this dynamic entirely. By eliminating manual node group administration, 
 this architecture delivers an automated, serverless compute engine explicitly built for containerized environments. Inside this cluster, we securely deploy a live, 
